@@ -1,6 +1,6 @@
 import Rocket from '../obj/rocket.js';
 import Fuel from '../obj/fuel.js';
-import Map1 from '../maps/map1.js';
+//import Map1 from '../maps/map1.js';
 import Camera from '../obj/camera.js';
 
 
@@ -11,7 +11,7 @@ export default class mainScene extends Phaser.Scene {
 
 	create () {
 
-		this.map1 = new Map1(this);
+		//this.map1 = new Map1(this);
 
 		this.rocket = new Rocket(this, this.map1.spawnPoint.x, this.map1.spawnPoint.y);
 
