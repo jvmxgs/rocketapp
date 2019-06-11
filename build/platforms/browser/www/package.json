@@ -1,0 +1,14 @@
+{
+  "name": "rocketgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rocketgame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.17.0"
+  }
+}

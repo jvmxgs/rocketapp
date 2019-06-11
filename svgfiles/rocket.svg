@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="128"
+   viewBox="0 0 300.00001 119.99999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="rocket.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4182">
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:0.49498329"
+         offset="0"
+         id="stop4184" />
+      <stop
+         style="stop-color:#babdb6;stop-opacity:0.24414715"
+         offset="1"
+         id="stop4186" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4182"
+       id="linearGradient4188"
+       x1="297.62918"
+       y1="802.19806"
+       x2="388.27963"
+       y2="801.03088"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.17740697,0,0,0.1541388,-1419.1337,1031.1964)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4182"
+       id="linearGradient1029"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.18599368,0,0,0.15413636,83.286773,921.40662)"
+       x1="297.62918"
+       y1="802.19806"
+       x2="388.27963"
+       y2="801.03088" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4182"
+       id="linearGradient1201"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.17740697,0,0,0.1541388,90.836046,921.31195)"
+       x1="297.62918"
+       y1="802.19806"
+       x2="388.27963"
+       y2="801.03088" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4182"
+       id="linearGradient1360"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.17740697,0,0,0.1541388,211.4376,921.40464)"
+       x1="297.62918"
+       y1="802.19806"
+       x2="388.27963"
+       y2="801.03088" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4182"
+       id="linearGradient451"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.17740697,0,0,0.1541388,30.7747,921.40464)"
+       x1="297.62918"
+       y1="802.19806"
+       x2="388.27963"
+       y2="801.03088" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="48.613034"
+     inkscape:cy="41.130072"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:snap-intersection-paths="true"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-932.36224)">
+    <g
+       id="g1107"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75"
+       transform="translate(1389.9698,-109.88445)">
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="rect4468"
+         d="m -1371.5667,1101.405 -0.2724,18.1854 -10.5629,16.992 0.2723,-18.1854 z"
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4224"
+         d="m -1344.8135,1120.5011 h -29.5294 c 2.713,17.7353 8.2957,29.9376 14.7611,29.9376 6.4667,0 12.0559,-12.1966 14.7683,-29.9376 z"
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="rect4468-8"
+         d="m -1348.3019,1100.9846 0.2724,18.1854 10.5629,16.992 -0.2723,-18.1854 z"
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4222"
+         d="m -1343.412,1107.3936 h -32.3392 c 0.2938,4.6211 0.7801,9.0007 1.4083,13.1075 h 29.5294 c 0.6275,-4.104 1.1079,-8.49 1.4015,-13.1075 z"
+         style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="path4229"
+         d="m -1376.019,1092.6198 a 10.19224,10.782837 0 0 0 0.3515,0.2823 10.19224,10.782837 0 0 0 0.8684,0.5636 10.19224,10.782837 0 0 0 0.9175,0.4688 10.19224,10.782837 0 0 0 0.957,0.3697 10.19224,10.782837 0 0 0 0.9871,0.2664 10.19224,10.782837 0 0 0 1.0074,0.161 10.19224,10.782837 0 0 0 1.0176,0.054 10.19224,10.782837 0 0 0 0.7208,-0.027 10.19224,10.782837 0 0 0 1.0113,-0.13 10.19224,10.782837 0 0 0 0.9943,-0.236 10.19224,10.782837 0 0 0 0.9666,-0.3399 10.19224,10.782837 0 0 0 0.93,-0.4402 10.19224,10.782837 0 0 0 0.8838,-0.5364 10.19224,10.782837 0 0 0 0.8287,-0.6268 10.19224,10.782837 0 0 0 0.7655,-0.7114 10.19224,10.782837 0 0 0 0.6943,-0.7888 10.19224,10.782837 0 0 0 0.6166,-0.858 10.19224,10.782837 0 0 0 0.5324,-0.9188 10.19224,10.782837 0 0 0 0.4431,-0.9706 10.19224,10.782837 0 0 0 0.3495,-1.0124 10.19224,10.782837 0 0 0 0.2521,-1.0444 10.19224,10.782837 0 0 0 0.1522,-1.0657 10.19224,10.782837 0 0 0 0.051,-1.0766 10.19224,10.782837 0 0 0 -0.026,-0.7625 10.19224,10.782837 0 0 0 -0.1227,-1.07 10.19224,10.782837 0 0 0 -0.2231,-1.0518 10.19224,10.782837 0 0 0 -0.3213,-1.0227 10.19224,10.782837 0 0 0 -0.4163,-0.9839 10.19224,10.782837 0 0 0 -0.5068,-0.935 10.19224,10.782837 0 0 0 -0.5927,-0.8767 10.19224,10.782837 0 0 0 -0.6725,-0.8098 10.19224,10.782837 0 0 0 -0.7452,-0.7346 10.19224,10.782837 0 0 0 -0.811,-0.6524 10.19224,10.782837 0 0 0 -0.8688,-0.5632 10.19224,10.782837 0 0 0 -0.9171,-0.4691 10.19224,10.782837 0 0 0 -0.9573,-0.3694 10.19224,10.782837 0 0 0 -0.9872,-0.2667 10.19224,10.782837 0 0 0 -1.0073,-0.1611 10.19224,10.782837 0 0 0 -1.0173,-0.054 10.19224,10.782837 0 0 0 -0.7211,0.027 10.19224,10.782837 0 0 0 -1.0114,0.1298 10.19224,10.782837 0 0 0 -0.9939,0.236 10.19224,10.782837 0 0 0 -0.516,0.1816 c -1.4758,5.8017 -2.5666,12.1407 -2.8641,18.8254 z"
+         style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4136"
+         d="m -1362.3329,1065.1629 c -2.7871,-0.088 -5.9493,1.0736 -9.53,3.9516 -0.4586,1.5105 -0.8853,3.0811 -1.292,4.6799 a 10.19224,10.782837 0 0 1 0.516,-0.1816 10.19224,10.782837 0 0 1 0.9939,-0.236 10.19224,10.782837 0 0 1 1.0114,-0.1298 10.19224,10.782837 0 0 1 0.7211,-0.027 10.19224,10.782837 0 0 1 1.0173,0.054 10.19224,10.782837 0 0 1 1.0073,0.1611 10.19224,10.782837 0 0 1 0.9872,0.2667 10.19224,10.782837 0 0 1 0.9573,0.3694 10.19224,10.782837 0 0 1 0.9171,0.4691 10.19224,10.782837 0 0 1 0.8688,0.5632 10.19224,10.782837 0 0 1 0.811,0.6524 10.19224,10.782837 0 0 1 0.7452,0.7346 10.19224,10.782837 0 0 1 0.6725,0.8098 10.19224,10.782837 0 0 1 0.5927,0.8767 10.19224,10.782837 0 0 1 0.5068,0.935 10.19224,10.782837 0 0 1 0.4163,0.9839 10.19224,10.782837 0 0 1 0.3213,1.0227 10.19224,10.782837 0 0 1 0.2231,1.0518 10.19224,10.782837 0 0 1 0.1227,1.07 10.19224,10.782837 0 0 1 0.026,0.7625 10.19224,10.782837 0 0 1 -0.051,1.0766 10.19224,10.782837 0 0 1 -0.1522,1.0657 10.19224,10.782837 0 0 1 -0.2521,1.0444 10.19224,10.782837 0 0 1 -0.3495,1.0124 10.19224,10.782837 0 0 1 -0.4431,0.9706 10.19224,10.782837 0 0 1 -0.5324,0.9188 10.19224,10.782837 0 0 1 -0.6166,0.858 10.19224,10.782837 0 0 1 -0.6943,0.7888 10.19224,10.782837 0 0 1 -0.7655,0.7114 10.19224,10.782837 0 0 1 -0.8287,0.6268 10.19224,10.782837 0 0 1 -0.8838,0.5364 10.19224,10.782837 0 0 1 -0.93,0.4402 10.19224,10.782837 0 0 1 -0.9666,0.3399 10.19224,10.782837 0 0 1 -0.9943,0.236 10.19224,10.782837 0 0 1 -1.0113,0.13 10.19224,10.782837 0 0 1 -0.7208,0.027 10.19224,10.782837 0 0 1 -1.0176,-0.054 10.19224,10.782837 0 0 1 -1.0074,-0.161 10.19224,10.782837 0 0 1 -0.9871,-0.2664 10.19224,10.782837 0 0 1 -0.957,-0.3697 10.19224,10.782837 0 0 1 -0.9175,-0.4688 10.19224,10.782837 0 0 1 -0.8684,-0.5636 10.19224,10.782837 0 0 1 -0.3515,-0.2823 c -0.054,1.2148 -0.082,2.4404 -0.082,3.6758 0,3.8049 0.1222,7.5147 0.35,11.098 h 32.3392 c 0.1007,-1.5842 0.1824,-3.1914 0.2399,-4.8232 0,0 -4.1107,-36.9306 -19.1608,-37.4075 z"
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4199"
+         d="m -1371.8633,1069.1164 c 4.8945,-16.1232 12.2811,-26.9624 12.2811,-26.9624 0,0 16.5194,24.2408 16.5194,54.1434 v 0 c 0,2.1224 -0.037,4.2162 -0.1097,6.2749 -17.0053,0.086 -5.6845,-37.3967 -28.6908,-33.4559 z"
+         style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4264"
+         d="m -1374.5363,1080.0505 c -0.6736,3.4229 -1.1577,7.0237 -1.324,10.7614 v 0 c 0.095,0.08 0.2298,0.1711 0.3281,0.2466 0.2316,0.1677 0.471,0.323 0.7173,0.4654 0.2463,0.1423 0.4991,0.2715 0.7576,0.3871 0.2585,0.1157 0.5223,0.2176 0.7903,0.3053 0.2682,0.088 0.5402,0.1611 0.8153,0.2201 0.275,0.059 0.5527,0.1033 0.8319,0.133 0.2792,0.03 0.5597,0.044 0.8404,0.044 0.1986,0 0.3971,-0.01 0.5952,-0.022 0.2799,-0.021 0.5587,-0.057 0.8352,-0.1074 0.2766,-0.051 0.5507,-0.1156 0.8211,-0.195 0.2704,-0.079 0.5368,-0.1731 0.7983,-0.2807 0.2616,-0.1075 0.5179,-0.2288 0.768,-0.3634 0.2502,-0.1348 0.4938,-0.2826 0.73,-0.4431 0.2361,-0.1604 0.4645,-0.3331 0.6843,-0.5176 0.2198,-0.1846 0.4308,-0.3807 0.6322,-0.5875 0.2012,-0.2069 0.3926,-0.4243 0.5734,-0.6514 0.1808,-0.2271 0.3507,-0.4636 0.5092,-0.7086 0.1585,-0.245 0.3052,-0.4982 0.4397,-0.7588 0.1345,-0.2605 0.2566,-0.5281 0.3659,-0.8015 0.1093,-0.2735 0.2056,-0.5525 0.2886,-0.8361 0.083,-0.2837 0.1524,-0.5715 0.2082,-0.8625 0.056,-0.291 0.098,-0.5847 0.1257,-0.8801 0.028,-0.2955 0.042,-0.5922 0.042,-0.8891 0,-0.2101 -0.01,-0.4202 -0.021,-0.6298 -0.02,-0.2961 -0.054,-0.591 -0.1013,-0.8836 -0.048,-0.2926 -0.1092,-0.5825 -0.1843,-0.8686 -0.075,-0.2861 -0.1636,-0.5679 -0.2653,-0.8446 -0.052,-0.1421 -0.1079,-0.2828 -0.167,-0.4218"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4229-0-2"
+         d="m -1363.1013,1080.0606 c -0.056,-0.1317 -0.1149,-0.262 -0.1768,-0.3907 -0.1273,-0.2646 -0.2669,-0.5224 -0.4186,-0.7722 -0.1516,-0.2498 -0.315,-0.4915 -0.4895,-0.724 -0.1744,-0.2326 -0.3597,-0.4558 -0.5553,-0.6688 -0.1954,-0.2129 -0.4009,-0.4154 -0.6155,-0.6066 -0.2146,-0.1913 -0.4381,-0.3711 -0.6697,-0.5388 -0.2317,-0.1676 -0.4711,-0.3229 -0.7175,-0.4652 -0.2462,-0.1424 -0.499,-0.2716 -0.7574,-0.3873 -0.2586,-0.1156 -0.5224,-0.2174 -0.7906,-0.3051 -0.2681,-0.088 -0.5401,-0.1613 -0.8152,-0.2203 -0.275,-0.059 -0.5527,-0.1033 -0.8319,-0.133 -0.2792,-0.03 -0.5596,-0.044 -0.8401,-0.044 -0.1987,0 -0.3974,0.01 -0.5955,0.022 -0.28,0.021 -0.5587,0.057 -0.8352,0.1072 -0.2766,0.05 -0.5505,0.1155 -0.8209,0.1949 -0.1433,0.046 -0.2853,0.096 -0.4261,0.1499 -0.3936,1.5473 -0.758,3.1394 -1.0792,4.772"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4331"
+         d="m -1375.7023,1091.6874 a 8.9897795,9.0866533 0 0 0 0.6631,0.4109 8.9897795,9.0866533 0 0 0 0.8093,0.395 8.9897795,9.0866533 0 0 0 0.844,0.3116 8.9897795,9.0866533 0 0 0 0.8707,0.2246 8.9897795,9.0866533 0 0 0 0.8884,0.1358 8.9897795,9.0866533 0 0 0 0.8976,0.045 8.9897795,9.0866533 0 0 0 0.636,-0.023 8.9897795,9.0866533 0 0 0 0.8918,-0.1098 8.9897795,9.0866533 0 0 0 0.877,-0.1987 8.9897795,9.0866533 0 0 0 0.8526,-0.2866 8.9897795,9.0866533 0 0 0 0.8204,-0.3709 8.9897795,9.0866533 0 0 0 0.7794,-0.4519 8.9897795,9.0866533 0 0 0 0.731,-0.5284 8.9897795,9.0866533 0 0 0 0.675,-0.5993 8.9897795,9.0866533 0 0 0 0.6127,-0.6648 8.9897795,9.0866533 0 0 0 0.5438,-0.7231 8.9897795,9.0866533 0 0 0 0.4695,-0.7743 8.9897795,9.0866533 0 0 0 0.391,-0.8177 8.9897795,9.0866533 0 0 0 0.3082,-0.8531 8.9897795,9.0866533 0 0 0 0.2222,-0.8803 8.9897795,9.0866533 0 0 0 0.1343,-0.8981 8.9897795,9.0866533 0 0 0 0.045,-0.907 8.9897795,9.0866533 0 0 0 -0.023,-0.6428 8.9897795,9.0866533 0 0 0 -0.1081,-0.9016 8.9897795,9.0866533 0 0 0 -0.1967,-0.8863 8.9897795,9.0866533 0 0 0 -0.2834,-0.8619 8.9897795,9.0866533 0 0 0 -0.3671,-0.8291 8.9897795,9.0866533 0 0 0 -0.447,-0.7879 8.9897795,9.0866533 0 0 0 -0.5228,-0.7388 8.9897795,9.0866533 0 0 0 -0.1886,-0.217 z"
+         style="opacity:1;fill:#8fc2ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4329"
+         d="m -1364.8126,1077.2923 a 8.9897795,9.0866533 0 0 0 -0.1252,-0.118 8.9897795,9.0866533 0 0 0 -0.7103,-0.5461 l -10.2095,11.4291 c -0.062,0.6436 -0.1014,1.2977 -0.1508,1.9472 z"
+         style="opacity:1;fill:#8fc2ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="path4324"
+         d="m -1364.8126,1077.2923 -11.1958,12.7122 c -0.035,0.4606 -0.085,0.9143 -0.1068,1.3809 a 8.9897795,9.0866533 0 0 0 0.3099,0.2382 8.9897795,9.0866533 0 0 0 0.103,0.064 l 11.8265,-13.4287 a 8.9897795,9.0866533 0 0 0 -0.4047,-0.4655 8.9897795,9.0866533 0 0 0 -0.5321,-0.5009 z"
+         style="opacity:1;fill:#c8e0ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4322"
+         d="m -1368.1397,1075.4261 a 8.9897795,9.0866533 0 0 0 -0.8036,-0.2075 8.9897795,9.0866533 0 0 0 -0.8884,-0.1357 8.9897795,9.0866533 0 0 0 -0.8975,-0.046 8.9897795,9.0866533 0 0 0 -0.636,0.023 8.9897795,9.0866533 0 0 0 -0.8919,0.1093 8.9897795,9.0866533 0 0 0 -0.8767,0.199 8.9897795,9.0866533 0 0 0 -0.455,0.1529 c -0.67,2.5165 -1.2445,5.1568 -1.6855,7.8912 z"
+         style="opacity:1;fill:#8fc2ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4229-7"
+         d="m -1368.1397,1075.4261 -7.1346,7.9866 c -0.2447,1.5174 -0.4327,3.0706 -0.5833,4.6446 l 10.2095,-11.4291 a 8.9897795,9.0866533 0 0 0 -0.7664,-0.4748 8.9897795,9.0866533 0 0 0 -0.809,-0.3953 8.9897795,9.0866533 0 0 0 -0.8443,-0.3113 8.9897795,9.0866533 0 0 0 -0.067,-0.017 z"
+         style="opacity:1;fill:#c8e0ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         sodipodi:nodetypes="ccssscscssc"
+         inkscape:connector-curvature="0"
+         id="path4224-3"
+         d="m -1359.5822,1042.154 c 1.7113,9.4957 7.7757,47.9124 7.8569,71.7167 0,2.1224 -0.037,4.2162 -0.1095,6.2749 -0.057,1.6317 -0.1392,3.2389 -0.2399,4.8231 -0.2935,4.6176 -0.774,9.0035 -1.4015,13.1076 -0.578,3.7809 -1.2877,7.3071 -2.1077,10.5199 4.757,-3.8011 8.7036,-14.3645 10.8495,-28.4 0.6275,-4.1041 1.108,-8.4901 1.4015,-13.1076 0.1007,-1.5842 0.1824,-3.1914 0.2399,-4.8231 0.072,-2.0587 0.1095,-4.1525 0.1095,-6.2749 0,-29.9025 -16.5987,-53.8366 -16.5987,-53.8366 z"
+         style="opacity:1;fill:#646464;fill-opacity:0.33057849;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="path4484"
+         d="m -1382.3191,1110.7262 a 4.3269599,24.087363 0 0 1 1.0646,15.8238 v 0 a 4.3269599,24.087363 0 0 1 -4.3269,24.0873 4.3269599,24.087363 0 0 1 -4.327,-24.0873 4.3269599,24.087363 0 0 1 1.0633,-15.8152"
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="path4484-7"
+         d="m -1382.3183,1110.7318 h -1.567 a 4.3269599,24.087363 0 0 1 1.0284,15.5674 4.3269599,24.087363 0 0 1 -3.6456,23.7732 4.3269599,24.087363 0 0 0 0.9217,0.5687 4.3269599,24.087363 0 0 0 4.3271,-24.0875 4.3269599,24.087363 0 0 0 -1.0646,-15.8239 z"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <ellipse
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         ry="1.4016955"
+         rx="3.2809236"
+         cy="1110.8438"
+         cx="-1385.5825"
+         id="path4486"
+         style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="rect4204"
+         d="m -1367.3876,1144.0051 -6.7336,18.1489 14.4897,-0.057 14.4894,0.057 -6.7336,-18.1489 h -7.7359 -0.04 z"
+         style="opacity:1;fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="rect4204-5"
+         d="m -1361.6654,1144.0052 -3.6277,18.1149 5.7226,-0.023 9.912,0.039 -4.9697,-18.1311 h -4.9225 -0.04 z"
+         style="opacity:1;fill:url(#linearGradient4188);fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="path4484-1"
+         d="m -1337.5495,1110.3058 a 4.3269599,24.087363 0 0 0 -1.0646,15.8238 v 0 a 4.3269599,24.087363 0 0 0 4.3269,24.0874 4.3269599,24.087363 0 0 0 4.327,-24.0874 4.3269599,24.087363 0 0 0 -1.0633,-15.8152"
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="path4484-7-5"
+         d="m -1330.9729,1110.3114 h -1.5671 a 4.3269599,24.087363 0 0 1 1.0284,15.5674 4.3269599,24.087363 0 0 1 -3.6456,23.7732 4.3269599,24.087363 0 0 0 0.9217,0.5687 4.3269599,24.087363 0 0 0 4.3271,-24.0875 4.3269599,24.087363 0 0 0 -1.0645,-15.8239 z"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <ellipse
+         inkscape:export-ydpi="6.1399999"
+         inkscape:export-xdpi="6.1399999"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         transform="scale(-1,1)"
+         ry="1.4016955"
+         rx="3.2809236"
+         cy="1110.4235"
+         cx="1334.286"
+         id="path4486-8"
+         style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.15340245;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 142.84657,955.37262 c -2.9205,-0.088 -6.2341,1.0736 -9.9864,3.9516 -0.4804,1.5105 -0.9276,3.0811 -1.3537,4.6798 -1.4338,5.8336 -2.43,6.9337 -3.0013,18.8251 -0.057,1.2147 -0.086,2.4403 -0.086,3.6758 0,3.8048 0.1279,7.5145 0.3668,11.0978 h 33.88741 c 0.1056,-1.5842 0.1912,-3.1914 0.2514,-4.8231 0,0 -4.30741,-36.9301 -20.07811,-37.407 z"
+       id="path4136-7-6-8"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75"
+       sodipodi:nodetypes="scccscccs" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.10094937;stroke-opacity:1"
+       d="m 131.87767,993.93432 -0.1796,12.52048 -6.962,11.6987 0.1795,-12.5204 z"
+       id="rect4468-9-2-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 161.20418,1010.7101 h -30.95871 c 2.8444,17.735 8.6973,29.9371 15.4756,29.9371 6.7797,0 12.6394,-12.1964 15.48311,-29.9371 z"
+       id="path4224-7-9-5"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 162.67348,997.60272 h -33.90441 c 0.308,4.62108 0.8178,9.00068 1.4764,13.10738 h 30.95871 c 0.6578,-4.104 1.1616,-8.4899 1.4693,-13.10738 z"
+       id="path4222-0-0-6"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.19274627;stroke-opacity:1"
+       d="m 166.97005,995.29944 a 6.0648181,28.429272 0 0 0 -1.49231,18.67626 v 0 a 6.0648181,28.429272 0 0 0 6.06481,28.4292 6.0648181,28.429272 0 0 0 6.06491,-28.4292 6.0648181,28.429272 0 0 0 -1.4904,-18.66604"
+       id="path4484-1-0-4-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#c8e0ff;fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 130.54757,967.45612 c -0.019,0.078 -0.039,0.1558 -0.058,0.2331 l 0.1609,-0.1716 a 9.424895,9.0865093 0 0 0 -0.01,0 9.424895,9.0865093 0 0 0 -0.098,-0.058 z"
+       id="path4229-7-8-2-3"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.19274627;stroke-opacity:1"
+       d="m 176.18793,995.30615 h -2.19643 a 6.0648181,28.429272 0 0 1 1.44144,18.37355 6.0648181,28.429272 0 0 1 -5.10976,28.0586 6.0648181,28.429272 0 0 0 1.29194,0.6711 6.0648181,28.429272 0 0 0 6.06491,-28.4295 6.0648181,28.429272 0 0 0 -1.4921,-18.67631 z"
+       id="path4484-7-5-4-1-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 132.65727,959.32422 c 6.6244,-15.5589 13.0638,-26.962 13.0638,-26.962 0,0 17.31901,24.2404 17.31901,54.1425 v 0 c 0,2.1224 -0.1764,4.2157 -0.1151,6.2749 -39.89355,0.017 -20.07841,-37.407 -30.26771,-33.4554 z"
+       id="path4199-5-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       style="opacity:1;fill:#646464;fill-opacity:0.33057849;stroke:none;stroke-width:0.15344071;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 145.72067,932.36412 c 1.7941,9.4956 8.152,47.9117 8.2372,71.71568 0,2.1224 -0.039,4.2161 -0.1149,6.2747 -0.06,1.6317 -0.1458,3.2389 -0.2514,4.8231 -0.3078,4.6175 -0.8115,9.0033 -1.4694,13.1073 -0.606,3.7809 -1.35,7.307 -2.2097,10.5198 4.9872,-3.801 9.1249,-14.3643 11.37461,-28.3996 0.6579,-4.104 1.1616,-8.4899 1.4693,-13.10738 0.1056,-1.5842 0.1913,-3.1914 0.2515,-4.8231 0.076,-2.0586 0.1149,-4.1524 0.1149,-6.2747 0,-29.9021 -17.40211,-53.8358 -17.40211,-53.8358 z"
+       id="path4224-3-2-7-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssscscssc"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.15619123;stroke-opacity:1"
+       d="m 157.10515,994.49116 0.29072,18.51104 11.2727,17.2964 -0.29072,-18.5112 z"
+       id="rect4468-8-8-5-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.10789921;stroke-opacity:1"
+       d="m 125.58267,998.06855 a 2.929237,18.445636 0 0 1 0.7208,12.11755 v 0 a 2.929237,18.445636 0 0 1 -2.9293,18.4457 2.929237,18.445636 0 0 1 -2.9292,-18.4457 2.929237,18.445636 0 0 1 0.7198,-12.11095"
+       id="path4484-0-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.10789921;stroke-opacity:1"
+       d="m 125.58327,998.07285 h -1.0609 a 2.929237,18.445636 0 0 1 0.6963,11.92135 2.929237,18.445636 0 0 1 -2.468,18.205 2.929237,18.445636 0 0 0 0.624,0.4355 2.929237,18.445636 0 0 0 2.9293,-18.4457 2.929237,18.445636 0 0 0 -0.7207,-12.11775 z"
+       id="path4484-7-3-2-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <ellipse
+       style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.10789921;stroke-opacity:1"
+       id="path4486-0-6-9"
+       cx="123.37366"
+       cy="998.15857"
+       rx="2.2210982"
+       ry="1.0733914"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <ellipse
+       style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.19274627;stroke-opacity:1"
+       id="path4486-8-9-0-7"
+       cx="-171.54431"
+       cy="995.43829"
+       rx="4.5986576"
+       ry="1.6543608"
+       transform="scale(-1,1)"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       style="opacity:1;fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-opacity:1"
+       d="m 137.53747,1034.2136 -7.0595,18.1487 15.191,-0.057 15.19071,0.057 -7.05961,-18.1487 h -8.1102 -0.042 z"
+       id="rect4204-0-7-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <path
+       style="opacity:1;fill:url(#linearGradient1029);fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-opacity:1"
+       d="m 143.53667,1034.2138 -3.8034,18.1146 5.9996,-0.023 10.3918,0.039 -5.2102,-18.1309 h -5.1608 -0.042 z"
+       id="rect4204-5-8-8-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+    <g
+       id="g335"
+       transform="translate(60.97694,0.09266865)">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14989358;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 147.62675,955.27905 c -2.7884,-0.088 -5.9521,1.0736 -9.5347,3.9516 -0.4587,1.5105 -0.8857,3.0811 -1.2925,4.6798 -1.369,5.8336 -2.3201,6.9337 -2.8656,18.8251 -0.054,1.2147 -0.082,2.4403 -0.082,3.6758 0,3.8048 0.1221,7.5145 0.3502,11.0978 h 32.3549 c 0.1008,-1.5842 0.1825,-3.1914 0.24,-4.8231 0,0 1.5651,-40.7246 -13.3107,-38.3445 z"
+         id="path1264"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-ydpi="96.75"
+         sodipodi:nodetypes="ccccscccsc" />
+      <path
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.12398177;stroke-opacity:1"
+         d="m 164.45309,992.32449 0.21652,15.65211 8.4004,14.6248 -0.21652,-15.652 z"
+         id="path1246"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-ydpi="96.75" />
+      <path
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4224-31"
+         d="m 165.15625,1010.6167 h -29.5294 c 2.713,17.7353 8.2957,29.9376 14.7611,29.9376 6.4667,0 12.0559,-12.1966 14.7683,-29.9376 z"
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4222-2"
+         d="m 166.55775,997.50915 h -32.3392 c 0.2938,4.62115 0.7801,9.00075 1.4083,13.10755 h 29.5294 c 0.6275,-4.104 1.1079,-8.49 1.4015,-13.10755 z"
+         style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4199-2"
+         d="m 138.10645,959.23195 c 6.73729,-15.44418 12.2811,-26.9624 12.2811,-26.9624 0,0 16.5194,24.2408 16.5194,54.1434 v 0 c 0,2.1224 -0.086,4.56558 -0.1097,6.2749 -7.38465,-2.74164 3.38139,-38.00414 -28.6908,-33.4559 z"
+         style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4264-4"
+         d="m 143.16785,970.63475 c -0.6736,3.4229 -1.1577,7.0237 -1.324,10.7614 v 0 c 0.095,0.08 0.2298,0.1711 0.3281,0.2466 0.2316,0.1677 0.471,0.323 0.7173,0.4654 0.2463,0.1423 0.4991,0.2715 0.7576,0.3871 0.2585,0.1157 0.5223,0.2176 0.7903,0.3053 0.2682,0.088 0.5402,0.1611 0.8153,0.2201 0.275,0.059 0.5527,0.1033 0.8319,0.133 0.2792,0.03 0.5597,0.044 0.8404,0.044 0.1986,0 0.3971,-0.01 0.5952,-0.022 0.2799,-0.021 0.5587,-0.057 0.8352,-0.1074 0.2766,-0.051 0.5507,-0.1156 0.8211,-0.195 0.2704,-0.079 0.5368,-0.1731 0.7983,-0.2807 0.2616,-0.1075 0.5179,-0.2288 0.768,-0.3634 0.2502,-0.1348 0.4938,-0.2826 0.73,-0.4431 0.2361,-0.1604 0.4645,-0.3331 0.6843,-0.5176 0.2198,-0.1846 0.4308,-0.3807 0.6322,-0.5875 0.2012,-0.2069 0.3926,-0.4243 0.5734,-0.6514 0.1808,-0.2271 0.3507,-0.4636 0.5092,-0.7086 0.1585,-0.245 0.3052,-0.4982 0.4397,-0.7588 0.1345,-0.2605 0.2566,-0.5281 0.3659,-0.8015 0.1093,-0.2735 0.2056,-0.5525 0.2886,-0.8361 0.083,-0.2837 0.1524,-0.5715 0.2082,-0.8625 0.056,-0.291 0.098,-0.5847 0.1257,-0.8801 0.028,-0.2955 0.042,-0.5922 0.042,-0.8891 0,-0.2101 -0.01,-0.4202 -0.021,-0.6298 -0.02,-0.2961 -0.054,-0.591 -0.1013,-0.8836 -0.048,-0.2926 -0.1092,-0.5825 -0.1843,-0.8686 -0.075,-0.2861 -0.1636,-0.5679 -0.2653,-0.8446 -0.052,-0.1421 -0.1079,-0.2828 -0.167,-0.4218"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4229-0-2-2"
+         d="m 154.60285,970.64485 c -0.056,-0.1317 -0.1149,-0.262 -0.1768,-0.3907 -0.1273,-0.2646 -0.2669,-0.5224 -0.4186,-0.7722 -0.1516,-0.2498 -0.315,-0.4915 -0.4895,-0.724 -0.1744,-0.2326 -0.3597,-0.4558 -0.5553,-0.6688 -0.1954,-0.2129 -0.4009,-0.4154 -0.6155,-0.6066 -0.2146,-0.1913 -0.4381,-0.3711 -0.6697,-0.5388 -0.2317,-0.1676 -0.4711,-0.3229 -0.7175,-0.4652 -0.2462,-0.1424 -0.499,-0.2716 -0.7574,-0.3873 -0.2586,-0.1156 -0.5224,-0.2174 -0.7906,-0.3051 -0.2681,-0.088 -0.5401,-0.1613 -0.8152,-0.2203 -0.275,-0.059 -0.5527,-0.1033 -0.8319,-0.133 -0.2792,-0.03 -0.5596,-0.044 -0.8401,-0.044 -0.1987,0 -0.3974,0.01 -0.5955,0.022 -0.28,0.021 -0.5587,0.057 -0.8352,0.1072 -0.2766,0.05 -0.5505,0.1155 -0.8209,0.1949 -0.1433,0.046 -0.2853,0.096 -0.4261,0.1499 -0.3936,1.5473 -0.758,3.1394 -1.0792,4.772"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <circle
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         r="9.0527344"
+         cy="974.70428"
+         cx="145.32133"
+         id="path1281-4"
+         style="fill:#8fc2ff;fill-opacity:1;stroke-width:1.22748959" />
+      <path
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         sodipodi:nodetypes="ccssscscssc"
+         inkscape:connector-curvature="0"
+         id="path4224-3-2"
+         d="m 150.38755,932.26955 c 1.7113,9.4957 7.7757,47.9124 7.8569,71.71675 0,2.1224 -0.037,4.2162 -0.1095,6.2749 -0.057,1.6317 -0.1392,3.2389 -0.2399,4.8231 -0.2935,4.6176 -0.774,9.0035 -1.4015,13.1076 -0.578,3.7809 -1.2877,7.3071 -2.1077,10.5199 4.757,-3.8011 8.7036,-14.3645 10.8495,-28.4 0.6275,-4.1041 1.108,-8.4901 1.4015,-13.10765 0.1007,-1.5842 0.1824,-3.1914 0.2399,-4.8231 0.072,-2.0587 0.1095,-4.1525 0.1095,-6.2749 0,-29.9025 -16.5987,-53.8366 -16.5987,-53.8366 z"
+         style="opacity:1;fill:#646464;fill-opacity:0.33057849;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="path4324-2"
+         d="m 151.25093,967.93514 -12.4263,13.5032 c -0.035,0.4606 1.4554,0.3615 1.4336,0.8281 0.1016,0.082 -0.105,-0.077 0,0 0.034,0.022 0.068,0.043 0.103,0.064 l 11.8265,-13.4287 c -0.1296,-0.1598 -0.2646,-0.315 -0.4047,-0.4655 -0.1706,-0.1742 -0.3481,-0.3413 -0.5321,-0.5009 z"
+         style="opacity:1;fill:#c8e0ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         id="path4229-7-0"
+         d="m 147.92383,966.06894 -11.3607,12.5441 c -0.2447,1.5174 1.2246,0.7919 1.074,2.3659 l 12.7783,-13.7079 c -0.2475,-0.1711 -0.5033,-0.3296 -0.7664,-0.4748 -0.263,-0.1453 -0.533,-0.2772 -0.809,-0.3953 -0.2761,-0.1179 -0.5579,-0.2218 -0.8443,-0.3113 -0.022,-0.01 -0.045,-0.011 -0.067,-0.017 z"
+         style="opacity:1;fill:#c8e0ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="rect4204-8"
+         d="m 142.58215,1034.1207 -6.7336,18.1489 14.4897,-0.057 14.4894,0.057 -6.7336,-18.1489 h -7.7359 -0.04 z"
+         style="opacity:1;fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="rect4204-5-1"
+         d="m 148.30435,1034.1208 -3.6277,18.1149 5.7226,-0.023 9.912,0.039 -4.9697,-18.1311 h -4.9225 -0.04 z"
+         style="opacity:1;fill:url(#linearGradient1201);fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.16691694;stroke-opacity:1"
+         d="m 129.91617,999.42406 a 5.2520908,24.619554 0 0 1 1.29232,16.17344 v 0 a 5.2520908,24.619554 0 0 1 -5.25207,24.6196 5.2520908,24.619554 0 0 1 -5.25217,-24.6196 5.2520908,24.619554 0 0 1 1.29067,-16.16459"
+         id="path1250"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-ydpi="96.75" />
+      <path
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.16691694;stroke-opacity:1"
+         d="m 121.93354,999.42987 h 1.9021 a 5.2520908,24.619554 0 0 0 -1.24827,15.91133 5.2520908,24.619554 0 0 0 4.42501,24.2986 5.2520908,24.619554 0 0 1 -1.1188,0.5811 5.2520908,24.619554 0 0 1 -5.25218,-24.6197 5.2520908,24.619554 0 0 1 1.29214,-16.17354 z"
+         id="path1252"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-ydpi="96.75" />
+      <path
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.13546412;stroke-opacity:1"
+         d="m 136.9733,995.28259 -0.25214,16.05461 -9.77678,15.001 0.25214,-16.0546 z"
+         id="path1254"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-ydpi="96.75" />
+      <path
+         style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.11499178;stroke-opacity:1"
+         d="m 171.92929,997.1007 a 3.1217852,19.658127 0 0 0 -0.76817,12.914 v 0 a 3.1217852,19.658127 0 0 0 3.12185,19.6582 3.1217852,19.658127 0 0 0 3.12175,-19.6582 3.1217852,19.658127 0 0 0 -0.76712,-12.90697"
+         id="path1256"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-ydpi="96.75" />
+      <path
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.11499178;stroke-opacity:1"
+         d="m 171.92865,997.10528 h 1.13065 a 3.1217852,19.658127 0 0 0 -0.74207,12.70492 3.1217852,19.658127 0 0 0 2.63022,19.4017 3.1217852,19.658127 0 0 1 -0.66502,0.4642 3.1217852,19.658127 0 0 1 -3.12185,-19.6583 3.1217852,19.658127 0 0 1 0.76807,-12.91423 z"
+         id="path1258"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-ydpi="96.75" />
+      <ellipse
+         transform="scale(-1,1)"
+         style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.11499178;stroke-opacity:1"
+         id="ellipse1260"
+         cx="-174.28355"
+         cy="997.19653"
+         rx="2.3670981"
+         ry="1.1439488"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-ydpi="96.75" />
+      <ellipse
+         style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.16691694;stroke-opacity:1"
+         id="ellipse1262"
+         cx="125.95492"
+         cy="999.54437"
+         rx="3.9824057"
+         ry="1.432665"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-ydpi="96.75" />
+      <path
+         inkscape:export-ydpi="96.75"
+         inkscape:export-xdpi="96.75"
+         inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+         inkscape:connector-curvature="0"
+         id="path1281-7"
+         d="m 145.47943,964.04344 a 10.693359,10.693359 0 0 0 -10.6933,10.6934 10.693359,10.693359 0 0 0 10.6933,10.6933 10.693359,10.693359 0 0 0 10.6935,-10.6933 10.693359,10.693359 0 0 0 -10.6935,-10.6934 z m -0.1464,1.6114 a 9.0527344,9.0527344 0 0 1 9.0527,9.0526 9.0527344,9.0527344 0 0 1 -9.0527,9.0528 9.0527344,9.0527344 0 0 1 -9.0528,-9.0528 9.0527344,9.0527344 0 0 1 9.0528,-9.0526 z"
+         style="fill:#0275ff;fill-opacity:1;stroke-width:1.44994724" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14989358;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 268.2283,955.37174 c -2.7884,-0.088 -5.9521,1.0736 -9.5347,3.9516 -0.4587,1.5105 -0.8857,3.0811 -1.2925,4.6798 -1.369,5.8336 -2.3201,6.9337 -2.8656,18.8251 -0.054,1.2147 -0.082,2.4403 -0.082,3.6758 0,3.8048 0.1221,7.5145 0.3502,11.0978 h 32.3549 c 0.1008,-1.5842 0.1825,-3.1914 0.24,-4.8231 0,0 1.5651,-40.7246 -13.3107,-38.3445 z"
+       id="path1318"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="12.29"
+       inkscape:export-ydpi="12.29"
+       sodipodi:nodetypes="ccccscccsc" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.12939037;stroke-opacity:1"
+       d="m 285.0118,991.61414 0.2301,16.04786 8.9235,14.9946 -0.2301,-16.0478 z"
+       id="path1320"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="12.29"
+       inkscape:export-ydpi="12.29" />
+    <path
+       inkscape:export-ydpi="6.1399999"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       id="path1322"
+       d="m 285.7578,1010.7093 h -29.5294 c 2.713,17.7353 8.2957,29.9376 14.7611,29.9376 6.4667,0 12.0559,-12.1966 14.7683,-29.9376 z"
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="6.1399999"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       id="path1324"
+       d="m 287.1593,997.60184 h -32.3392 c 0.2938,4.62106 0.7801,9.00066 1.4083,13.10746 h 29.5294 c 0.6275,-4.104 1.1079,-8.49 1.4015,-13.10746 z"
+       style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="6.1399999"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path1326"
+       d="m 258.708,959.32464 c 4.8945,-16.1232 12.2811,-26.9624 12.2811,-26.9624 0,0 16.5194,24.2408 16.5194,54.1434 v 0 c 0,2.1224 -0.037,4.2162 -0.1097,6.2749 -1.1223,-7.1114 6.2479,-35.2422 -28.6908,-33.4559 z"
+       style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="6.1399999"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       id="path1328"
+       d="m 263.7694,970.72744 c -0.6736,3.4229 -1.1577,7.0237 -1.324,10.7614 v 0 c 0.095,0.08 0.2298,0.1711 0.3281,0.2466 0.2316,0.1677 0.471,0.323 0.7173,0.4654 0.2463,0.1423 0.4991,0.2715 0.7576,0.3871 0.2585,0.1157 0.5223,0.2176 0.7903,0.3053 0.2682,0.088 0.5402,0.1611 0.8153,0.2201 0.275,0.059 0.5527,0.1033 0.8319,0.133 0.2792,0.03 0.5597,0.044 0.8404,0.044 0.1986,0 0.3971,-0.01 0.5952,-0.022 0.2799,-0.021 0.5587,-0.057 0.8352,-0.1074 0.2766,-0.051 0.5507,-0.1156 0.8211,-0.195 0.2704,-0.079 0.5368,-0.1731 0.7983,-0.2807 0.2616,-0.1075 0.5179,-0.2288 0.768,-0.3634 0.2502,-0.1348 0.4938,-0.2826 0.73,-0.4431 0.2361,-0.1604 0.4645,-0.3331 0.6843,-0.5176 0.2198,-0.1846 0.4308,-0.3807 0.6322,-0.5875 0.2012,-0.2069 0.3926,-0.4243 0.5734,-0.6514 0.1808,-0.2271 0.3507,-0.4636 0.5092,-0.7086 0.1585,-0.245 0.3052,-0.4982 0.4397,-0.7588 0.1345,-0.2605 0.2566,-0.5281 0.3659,-0.8015 0.1093,-0.2735 0.2056,-0.5525 0.2886,-0.8361 0.083,-0.2837 0.1524,-0.5715 0.2082,-0.8625 0.056,-0.291 0.098,-0.5847 0.1257,-0.8801 0.028,-0.2955 0.042,-0.5922 0.042,-0.8891 0,-0.2101 -0.01,-0.4202 -0.021,-0.6298 -0.02,-0.2961 -0.054,-0.591 -0.1013,-0.8836 -0.048,-0.2926 -0.1092,-0.5825 -0.1843,-0.8686 -0.075,-0.2861 -0.1636,-0.5679 -0.2653,-0.8446 -0.052,-0.1421 -0.1079,-0.2828 -0.167,-0.4218"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="6.1399999"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       id="path1330"
+       d="m 275.2044,970.73754 c -0.056,-0.1317 -0.1149,-0.262 -0.1768,-0.3907 -0.1273,-0.2646 -0.2669,-0.5224 -0.4186,-0.7722 -0.1516,-0.2498 -0.315,-0.4915 -0.4895,-0.724 -0.1744,-0.2326 -0.3597,-0.4558 -0.5553,-0.6688 -0.1954,-0.2129 -0.4009,-0.4154 -0.6155,-0.6066 -0.2146,-0.1913 -0.4381,-0.3711 -0.6697,-0.5388 -0.2317,-0.1676 -0.4711,-0.3229 -0.7175,-0.4652 -0.2462,-0.1424 -0.499,-0.2716 -0.7574,-0.3873 -0.2586,-0.1156 -0.5224,-0.2174 -0.7906,-0.3051 -0.2681,-0.088 -0.5401,-0.1613 -0.8152,-0.2203 -0.275,-0.059 -0.5527,-0.1033 -0.8319,-0.133 -0.2792,-0.03 -0.5596,-0.044 -0.8401,-0.044 -0.1987,0 -0.3974,0.01 -0.5955,0.022 -0.28,0.021 -0.5587,0.057 -0.8352,0.1072 -0.2766,0.05 -0.5505,0.1155 -0.8209,0.1949 -0.1433,0.046 -0.2853,0.096 -0.4261,0.1499 -0.3936,1.5473 -0.758,3.1394 -1.0792,4.772"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <circle
+       r="9.0527344"
+       cy="974.7384"
+       cx="271.31348"
+       id="circle1332"
+       style="fill:#8fc2ff;fill-opacity:1;stroke-width:1.22748959" />
+    <path
+       inkscape:export-ydpi="6.1399999"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       sodipodi:nodetypes="ccssscscssc"
+       inkscape:connector-curvature="0"
+       id="path1334"
+       d="m 270.9891,932.36224 c 1.7113,9.4957 7.7757,47.9124 7.8569,71.71666 0,2.1224 -0.037,4.2162 -0.1095,6.2749 -0.057,1.6317 -0.1392,3.2389 -0.2399,4.8231 -0.2935,4.6176 -0.774,9.0035 -1.4015,13.1076 -0.578,3.7809 -1.2877,7.3071 -2.1077,10.5199 4.757,-3.8011 8.7036,-14.3645 10.8495,-28.4 0.6275,-4.1041 1.108,-8.4901 1.4015,-13.10756 0.1007,-1.5842 0.1824,-3.1914 0.2399,-4.8231 0.072,-2.0587 0.1095,-4.1525 0.1095,-6.2749 0,-29.9025 -16.5987,-53.8366 -16.5987,-53.8366 z"
+       style="opacity:1;fill:#646464;fill-opacity:0.33057849;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-ydpi="6.1399999"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:connector-curvature="0"
+       id="path1336"
+       d="m 277.2431,967.96924 -12.4263,13.5032 c -0.035,0.4606 1.4554,0.3615 1.4336,0.8281 0.1016,0.082 -0.105,-0.077 0,0 0.034,0.022 0.068,0.043 0.103,0.064 l 11.8265,-13.4287 c -0.1296,-0.1598 -0.2646,-0.315 -0.4047,-0.4655 -0.1706,-0.1742 -0.3481,-0.3413 -0.5321,-0.5009 z"
+       style="opacity:1;fill:#c8e0ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-ydpi="6.1399999"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       id="path1338"
+       d="m 273.916,966.10304 -11.3607,12.5441 c -0.2447,1.5174 1.2246,0.7919 1.074,2.3659 l 12.7783,-13.7079 c -0.2475,-0.1711 -0.5033,-0.3296 -0.7664,-0.4748 -0.263,-0.1453 -0.533,-0.2772 -0.809,-0.3953 -0.2761,-0.1179 -0.5579,-0.2218 -0.8443,-0.3113 -0.022,-0.01 -0.045,-0.011 -0.067,-0.017 z"
+       style="opacity:1;fill:#c8e0ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="6.1399999"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:connector-curvature="0"
+       id="path1340"
+       d="m 263.1837,1034.2133 -6.7336,18.1489 14.4897,-0.057 14.4894,0.057 -6.7336,-18.1489 h -7.7359 -0.04 z"
+       style="opacity:1;fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="6.1399999"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:connector-curvature="0"
+       id="path1342"
+       d="m 268.9059,1034.2134 -3.6277,18.1149 5.7226,-0.023 9.912,0.039 -4.9697,-18.1311 h -4.9225 -0.04 z"
+       style="opacity:1;fill:url(#linearGradient1360);fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.18113329;stroke-opacity:1"
+       d="m 250.7276,997.39424 a 5.6994124,26.716406 0 0 1 1.4024,17.55086 v 0 a 5.6994124,26.716406 0 0 1 -5.6994,26.7164 5.6994124,26.716406 0 0 1 -5.6995,-26.7164 5.6994124,26.716406 0 0 1 1.4006,-17.54126"
+       id="path1344"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="12.29"
+       inkscape:export-ydpi="12.29" />
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.18113329;stroke-opacity:1"
+       d="m 242.0651,997.40054 h 2.0641 a 5.6994124,26.716406 0 0 0 -1.3546,17.26646 5.6994124,26.716406 0 0 0 4.8019,26.368 5.6994124,26.716406 0 0 1 -1.2141,0.6307 5.6994124,26.716406 0 0 1 -5.6995,-26.7166 5.6994124,26.716406 0 0 1 1.4022,-17.55096 z"
+       id="path1346"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="12.29"
+       inkscape:export-ydpi="12.29" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-opacity:1"
+       d="m 260.5864,993.48064 -0.2856,18.18506 -11.0742,16.9917 0.2856,-18.1851 z"
+       id="path1348"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="12.29"
+       inkscape:export-ydpi="12.29" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.10789921;stroke-opacity:1"
+       d="m 294.1994,998.40004 a 2.929237,18.445636 0 0 0 -0.7208,12.11746 v 0 a 2.929237,18.445636 0 0 0 2.9293,18.4457 2.929237,18.445636 0 0 0 2.9292,-18.4457 2.929237,18.445636 0 0 0 -0.7198,-12.11086"
+       id="path1350"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="12.29"
+       inkscape:export-ydpi="12.29" />
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.10789921;stroke-opacity:1"
+       d="m 294.1988,998.40434 h 1.0609 a 2.929237,18.445636 0 0 0 -0.6963,11.92126 2.929237,18.445636 0 0 0 2.468,18.205 2.929237,18.445636 0 0 1 -0.624,0.4355 2.929237,18.445636 0 0 1 -2.9293,-18.4457 2.929237,18.445636 0 0 1 0.7207,-12.11766 z"
+       id="path1352"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="12.29"
+       inkscape:export-ydpi="12.29" />
+    <ellipse
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.10789921;stroke-opacity:1"
+       id="ellipse1354"
+       cx="-296.40845"
+       cy="998.48999"
+       rx="2.2210982"
+       ry="1.0733914"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="12.29"
+       inkscape:export-ydpi="12.29" />
+    <ellipse
+       style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.18113329;stroke-opacity:1"
+       id="ellipse1356"
+       cx="246.42897"
+       cy="997.52478"
+       rx="4.321588"
+       ry="1.5546855"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="12.29"
+       inkscape:export-ydpi="12.29" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1358"
+       d="m 271.4716,964.07754 a 10.693359,10.693359 0 0 0 -10.6933,10.6934 10.693359,10.693359 0 0 0 10.6933,10.6933 10.693359,10.693359 0 0 0 10.6935,-10.6933 10.693359,10.693359 0 0 0 -10.6935,-10.6934 z m -0.1464,1.6114 a 9.0527344,9.0527344 0 0 1 9.0527,9.0526 9.0527344,9.0527344 0 0 1 -9.0527,9.0528 9.0527344,9.0527344 0 0 1 -9.0528,-9.0528 9.0527344,9.0527344 0 0 1 9.0528,-9.0526 z"
+       style="fill:#0275ff;fill-opacity:1;stroke-width:1.44994724" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.12133142;stroke-opacity:1"
+       d="m 77.549942,995.27822 -0.239865,13.53768 -9.301313,12.6494 0.239777,-13.5378 z"
+       id="rect4468-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 105.0949,1010.7093 H 75.5655 c 2.713,17.7353 8.2957,29.9376 14.7611,29.9376 6.4667,0 12.0559,-12.1966 14.7683,-29.9376 z"
+       id="path4224-9"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 87.5755,955.37114 c -2.7871,-0.088 -5.9493,1.0736 -9.53,3.9516 -3.740776,12.22718 -3.547574,14.93136 -4.023864,23.43236 -0.054,1.2148 -0.111297,2.48434 -0.111297,3.71974 0,3.8049 0.01966,7.544 0.247461,11.1273 h 32.3392 c 0.1007,-1.5842 0.1824,-3.1914 0.2399,-4.8232 0,0 -4.1107,-36.9306 -19.1608,-37.4075 z"
+       id="path4136-5"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999"
+       sodipodi:nodetypes="cccsccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 106.4964,997.60184 H 74.1572 c 0.2938,4.62106 0.7801,9.00066 1.4083,13.10746 h 29.5294 c 0.6275,-4.104 1.1079,-8.49 1.4015,-13.10746 z"
+       id="path4222-23"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 78.0451,959.32464 c 5.205464,-16.02551 12.2811,-26.9624 12.2811,-26.9624 0,0 16.5194,24.2408 16.5194,54.1434 v 0 c 0,2.1224 -0.037,4.2162 -0.1097,6.2749 -33.859897,1.08037 -12.452391,-34.4153 -28.6908,-33.4559 z"
+       id="path4199-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 70.968626,970.16212 c -0.6736,3.4229 -1.1577,7.0237 -1.324,10.7614 v 0 c 0.095,0.08 0.2298,0.1711 0.3281,0.2466 0.2316,0.1677 0.471,0.323 0.7173,0.4654 0.2463,0.1423 0.4991,0.2715 0.7576,0.3871 0.2585,0.1157 0.5223,0.2176 0.7903,0.3053 0.2682,0.088 0.5402,0.1611 0.8153,0.2201 0.275,0.059 0.5527,0.1033 0.8319,0.133 0.2792,0.03 0.5597,0.044 0.8404,0.044 0.1986,0 0.3971,-0.01 0.5952,-0.022 0.2799,-0.021 0.5587,-0.057 0.8352,-0.1074 0.2766,-0.051 0.5507,-0.1156 0.8211,-0.195 0.2704,-0.079 0.5368,-0.1731 0.7983,-0.2807 0.2616,-0.1075 0.5179,-0.2288 0.768,-0.3634 0.2502,-0.1348 0.4938,-0.2826 0.73,-0.4431 0.2361,-0.1604 0.4645,-0.3331 0.6843,-0.5176 0.2198,-0.1846 0.4308,-0.3807 0.6322,-0.5875 0.2012,-0.2069 0.3926,-0.4243 0.5734,-0.6514 0.1808,-0.2271 0.3507,-0.4636 0.5092,-0.7086 0.1585,-0.245 0.3052,-0.4982 0.4397,-0.7588 0.1345,-0.2605 0.2566,-0.5281 0.3659,-0.8015 0.1093,-0.2735 0.2056,-0.5525 0.2886,-0.8361 0.083,-0.2837 0.1524,-0.5715 0.2082,-0.8625 0.056,-0.291 0.098,-0.5847 0.1257,-0.8801 0.028,-0.2955 0.042,-0.5922 0.042,-0.8891 0,-0.2101 -0.01,-0.4202 -0.021,-0.6298 -0.02,-0.2961 -0.054,-0.591 -0.1013,-0.8836 -0.048,-0.2926 -0.1092,-0.5825 -0.1843,-0.8686 -0.075,-0.2861 -0.1636,-0.5679 -0.2653,-0.8446 -0.052,-0.1421 -0.1079,-0.2828 -0.167,-0.4218"
+       id="path4264-6"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 82.403626,970.17222 c -0.056,-0.1317 -0.1149,-0.262 -0.1768,-0.3907 -0.1273,-0.2646 -0.2669,-0.5224 -0.4186,-0.7722 -0.1516,-0.2498 -0.315,-0.4915 -0.4895,-0.724 -0.1744,-0.2326 -0.3597,-0.4558 -0.5553,-0.6688 -0.1954,-0.2129 -0.4009,-0.4154 -0.6155,-0.6066 -0.2146,-0.1913 -0.4381,-0.3711 -0.6697,-0.5388 -0.2317,-0.1676 -0.4711,-0.3229 -0.7175,-0.4652 -0.2462,-0.1424 -0.499,-0.2716 -0.7574,-0.3873 -0.2586,-0.1156 -0.5224,-0.2174 -0.7906,-0.3051 -0.2681,-0.088 -0.5401,-0.1613 -0.8152,-0.2203 -0.275,-0.059 -0.5527,-0.1033 -0.8319,-0.133 -0.2792,-0.03 -0.5596,-0.044 -0.8401,-0.044 -0.1987,0 -0.3974,0.01 -0.5955,0.022 -0.28,0.021 -0.5587,0.057 -0.8352,0.1072 -0.2766,0.05 -0.5505,0.1155 -0.8209,0.1949 -0.1433,0.046 -0.2853,0.096 -0.4261,0.1499 -0.3936,1.5473 -0.758,3.1394 -1.0792,4.772"
+       id="path4229-0-2-5"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       style="opacity:1;fill:#646464;fill-opacity:0.33057849;stroke:none;stroke-width:0.14985813;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 90.3262,932.36224 c 1.7113,9.4957 7.7757,47.9124 7.8569,71.71666 0,2.1224 -0.037,4.2162 -0.1095,6.2749 -0.057,1.6317 -0.1392,3.2389 -0.2399,4.8231 -0.2935,4.6176 -0.774,9.0035 -1.4015,13.1076 -0.578,3.7809 -1.2877,7.3071 -2.1077,10.5199 4.757,-3.8011 8.7036,-14.3645 10.8495,-28.4 0.6275,-4.1041 1.108,-8.4901 1.4015,-13.10756 0.1007,-1.5842 0.1824,-3.1914 0.2399,-4.8231 0.072,-2.0587 0.1095,-4.1525 0.1095,-6.2749 0,-29.9025 -16.5987,-53.8366 -16.5987,-53.8366 z"
+       id="path4224-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssscscssc"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1"
+       d="m 104.5896,993.92735 0.2724,18.18535 10.5629,16.992 -0.2723,-18.1854 z"
+       id="rect4468-8-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.12116749;stroke-opacity:1"
+       d="m 70.98232,999.86956 a 3.4985546,19.475788 0 0 1 0.86078,12.79434 v 0 a 3.4985546,19.475788 0 0 1 -3.498506,19.4757 3.4985546,19.475788 0 0 1 -3.498587,-19.4757 3.4985546,19.475788 0 0 1 0.859729,-12.78744"
+       id="path4484-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.12116749;stroke-opacity:1"
+       d="m 70.982967,999.87406 h -1.266995 a 3.4985546,19.475788 0 0 1 0.831511,12.58704 3.4985546,19.475788 0 0 1 -2.947643,19.2218 3.4985546,19.475788 0 0 0 0.745239,0.4598 3.4985546,19.475788 0 0 0 3.498668,-19.4759 3.4985546,19.475788 0 0 0 -0.86078,-12.79444 z"
+       id="path4484-7-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <ellipse
+       style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.12116749;stroke-opacity:1"
+       id="path4486-0"
+       cx="68.343689"
+       cy="999.96478"
+       rx="2.6527841"
+       ry="1.133338"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       style="opacity:1;fill:#a8a8a8;fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1"
+       d="m 82.5208,1034.2133 -6.7336,18.1489 14.4897,-0.057 14.4894,0.057 -6.7336,-18.1489 h -7.7359 -0.04 z"
+       id="rect4204-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       style="opacity:1;fill:url(#linearGradient451);fill-opacity:1;stroke:none;stroke-width:0.14985813;stroke-opacity:1"
+       d="m 88.243,1034.2134 -3.6277,18.1149 5.7226,-0.023 9.912,0.039 -4.9697,-18.1311 h -4.9225 -0.04 z"
+       id="rect4204-5-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       style="opacity:1;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.17470552;stroke-opacity:1"
+       d="m 110.27982,994.90062 a 5.044396,28.081195 0 0 0 -1.24111,18.44738 v 0 a 5.044396,28.081195 0 0 0 5.04432,28.0814 5.044396,28.081195 0 0 0 5.04444,-28.0814 5.044396,28.081195 0 0 0 -1.23961,-18.43735"
+       id="path4484-1-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.17470552;stroke-opacity:1"
+       d="m 117.94687,994.90716 h -1.82695 a 5.044396,28.081195 0 0 1 1.19892,18.14844 5.044396,28.081195 0 0 1 -4.25005,27.7151 5.044396,28.081195 0 0 0 1.0745,0.663 5.044396,28.081195 0 0 0 5.04457,-28.0814 5.044396,28.081195 0 0 0 -1.24099,-18.44759 z"
+       id="path4484-7-5-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999" />
+    <ellipse
+       style="opacity:1;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.17470552;stroke-opacity:1"
+       id="path4486-8-1"
+       cx="-114.08446"
+       cy="995.03778"
+       rx="3.8249207"
+       ry="1.6341051"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="6.1399999"
+       inkscape:export-ydpi="6.1399999"
+       transform="scale(-1,1)" />
+    <path
+       inkscape:export-ydpi="96.75"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       id="path645"
+       d="m 76.445546,965.29489 c -1.6834,6.0326 -2.1024,9.7282 -2.6223,17.4927 -0.04,0.8595 -0.066,1.7248 -0.078,2.5948 a 10.685556,10.782666 0 0 0 0.6271,-0.1419 10.685556,10.782666 0 0 0 1.0136,-0.3398 10.685556,10.782666 0 0 0 0.975,-0.4403 10.685556,10.782666 0 0 0 0.9266,-0.5362 10.685556,10.782666 0 0 0 0.8687,-0.6269 10.685556,10.782666 0 0 0 0.8024,-0.7115 10.685556,10.782666 0 0 0 0.7281,-0.7886 10.685556,10.782666 0 0 0 0.6463,-0.8579 10.685556,10.782666 0 0 0 0.5583,-0.919 10.685556,10.782666 0 0 0 0.4646,-0.9706 10.685556,10.782666 0 0 0 0.3663,-1.0123 10.685556,10.782666 0 0 0 0.2644,-1.0443 10.685556,10.782666 0 0 0 0.1597,-1.0657 10.685556,10.782666 0 0 0 0.053,-1.0767 10.685556,10.782666 0 0 0 -0.027,-0.7626 10.685556,10.782666 0 0 0 -0.1284,-1.07 10.685556,10.782666 0 0 0 -0.2341,-1.0516 10.685556,10.782666 0 0 0 -0.3368,-1.0228 10.685556,10.782666 0 0 0 -0.4363,-0.9838 10.685556,10.782666 0 0 0 -0.5314,-0.9351 10.685556,10.782666 0 0 0 -0.6215,-0.8766 10.685556,10.782666 0 0 0 -0.7048,-0.8097 10.685556,10.782666 0 0 0 -0.7814,-0.7347 10.685556,10.782666 0 0 0 -0.8503,-0.6522 10.685556,10.782666 0 0 0 -0.9109,-0.5633 10.685556,10.782666 0 0 0 -0.1914,-0.093 z"
+       style="opacity:1;fill:#0275ff;fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="96.75"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       id="path647"
+       d="m 77.843246,969.10669 -2.9818,3.2296 c -0.4788,2.9544 -0.7433,6.0472 -1.0382,10.4513 -0.012,0.2472 -0.021,0.4951 -0.03,0.7431 a 9.424895,9.0865093 0 0 0 0.2799,-0.09 9.424895,9.0865093 0 0 0 0.8604,-0.3712 9.424895,9.0865093 0 0 0 0.8169,-0.4518 9.424895,9.0865093 0 0 0 0.7667,-0.5284 9.424895,9.0865093 0 0 0 0.7076,-0.5991 9.424895,9.0865093 0 0 0 0.6422,-0.665 9.424895,9.0865093 0 0 0 0.5702,-0.7231 9.424895,9.0865093 0 0 0 0.4923,-0.7741 9.424895,9.0865093 0 0 0 0.4097,-0.8176 9.424895,9.0865093 0 0 0 0.3231,-0.8532 9.424895,9.0865093 0 0 0 0.233,-0.8803 9.424895,9.0865093 0 0 0 0.1409,-0.8981 9.424895,9.0865093 0 0 0 0.047,-0.9071 9.424895,9.0865093 0 0 0 -0.024,-0.6426 9.424895,9.0865093 0 0 0 -0.1132,-0.9017 9.424895,9.0865093 0 0 0 -0.2062,-0.8863 9.424895,9.0865093 0 0 0 -0.2973,-0.8619 9.424895,9.0865093 0 0 0 -0.3848,-0.8292 9.424895,9.0865093 0 0 0 -0.4685,-0.7877 9.424895,9.0865093 0 0 0 -0.5482,-0.7389 9.424895,9.0865093 0 0 0 -0.1977,-0.217 z"
+       style="opacity:1;fill:#8fc2ff;fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="96.75"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       id="path649"
+       d="m 76.860946,968.14029 -1.5288,1.6559 c -0.1791,0.8529 -0.3333,1.6918 -0.4707,2.5401 l 2.9818,-3.2296 a 9.424895,9.0865093 0 0 0 -0.4243,-0.4654 9.424895,9.0865093 0 0 0 -0.558,-0.501 z"
+       style="opacity:1;fill:#c8e0ff;fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#8fc2ff;fill-opacity:1;stroke:none;stroke-width:0.15344071;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 75.985246,967.47619 -0.1609,0.1716 c -0.1822,0.7369 -0.3452,1.4486 -0.4922,2.1484 l 1.5288,-1.6559 a 9.424895,9.0865093 0 0 0 -0.1312,-0.118 9.424895,9.0865093 0 0 0 -0.7445,-0.5461 z"
+       id="path4329-8-0-2"
+       inkscape:export-filename="C:\xampp\htdocs\apps\rocket\assets\sprites\rocket.png"
+       inkscape:export-xdpi="96.75"
+       inkscape:export-ydpi="96.75" />
+  </g>
+</svg>
