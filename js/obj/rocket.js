@@ -1,25 +1,29 @@
 import Controls from '../obj/controls.js';
+import Fuel from '../obj/fuel.js';
 
 export default class Rocket {
     constructor(scene, x, y) {
+        this.scene = scene;
+        this.isFlying = true;
+
+        this.velocity = 20;
+
         var rocketShape = scene.cache.json.get('rocketShape');
 
         this.sprite = scene.matter.add.sprite(0, 0, "rocket", 0, {shape: rocketShape.rocket});
 
-        //const { width: w, height: h } = this.sprite;
-
-        this.tailfire= scene.matter.add.sprite(0, 0, "tailfire", 1);
+        this.tailfire= scene.matter.add.sprite(0, 0, "tailfire", 1).setOrigin(0);
         this.sprite
         .setFixedRotation()
+        .setDepth(3)
         .setPosition(x, y);
 
 
         this.tailfire
             .setExistingBody(this.sprite.body.parts[1])
             .setFixedRotation()
-            .setPosition(this.sprite.body.parts[1].position.x, this.sprite.body.parts[1].position.y + (this.tailfire.height / 4));
-
-
+            .setDepth(2)
+            .setPosition(this.sprite.body.parts[1].position.x, this.sprite.body.parts[1].position.y);
 
         this.moveAngle = 0;
 
@@ -28,6 +32,9 @@ export default class Rocket {
         this.tailfire.anims.load('tailfiring');
         this.tailfire.anims.play('tailfiring');
         this.sprite.anims.load('rollingleft');
+
+
+        this.tankfuel = new Fuel(scene);
 
 
         this.controls = new Controls(scene);
@@ -58,9 +65,22 @@ export default class Rocket {
         });
     }
 
-    turnOnEngine(velocity) {
-        this.sprite.setVelocityY(Math.sin(this.sprite.body.angle - Math.PI/2) * velocity);
-        this.sprite.setVelocityX(Math.cos(this.sprite.body.angle - Math.PI/2) * velocity);
+    turnOnEngine() {
+
+        if (this.tankfuel.thereAreFuel()) {
+            this.isFlying = true;
+            this.sprite.setVelocityY(Math.sin(this.sprite.body.angle - Math.PI/2) * this.velocity);
+            this.sprite.setVelocityX(Math.cos(this.sprite.body.angle - Math.PI/2) * this.velocity);
+        } else {
+            this.isFlying = false;
+            this.scene.cameras.main.stopFollow();
+            this.tailfire.anims.stop();
+            this.tailfire.setFrame(0);
+            this.sprite.body.inertia = 20000.1;
+            this.sprite.applyForce({ x: 0, y: -0.5 });
+            this.sprite.setAngularVelocity(Phaser.Math.Between(-10, 10) / 100);
+            this.scene.panelfinal.show();
+        }
     }
 
     moveToSide(angle) {
@@ -95,17 +115,20 @@ export default class Rocket {
 
 
     update(scene) {
+        if (this.isFlying) {
+            this.turnOnEngine();
+            if (this.controls.keyLeft() || (this.controls.touchedDown() && this.controls.firstHalf)) {
+                this.moveToSide(-20);
+                this.sprite.anims.play('rollingleft');
+            }
 
-        if (this.controls.keyLeft() || (this.controls.touchedDown() && this.controls.firstHalf)) {
-            this.moveToSide(-20);
-            this.sprite.anims.play('rollingleft');
+            if (this.controls.keyRight() || (this.controls.touchedDown() && !this.controls.firstHalf)) {
+                this.moveToSide(20);
+                this.sprite.anims.play('rollingright');
+            }
+            this.updateAngle();
+            this.tankfuel.decreaseFuel();
         }
 
-        if (this.controls.keyRight() || (this.controls.touchedDown() && !this.controls.firstHalf)) {
-            this.moveToSide(20);
-            this.sprite.anims.play('rollingright');
-        }
-        this.updateAngle();
     }
-
 }

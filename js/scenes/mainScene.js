@@ -1,8 +1,9 @@
 import Rocket from '../obj/rocket.js';
-import Fuel from '../obj/fuel.js';
-//import Map1 from '../maps/map1.js';
 import Camera from '../obj/camera.js';
-
+import Panelfinal from '../obj/panelfinal.js';
+import Coins from '../groups/coins.js';
+import defineCollisions from '../helpers/collisions.js';
+import defineAnimations from '../helpers/animations.js';
 
 export default class mainScene extends Phaser.Scene {
 	constructor () {
@@ -10,22 +11,33 @@ export default class mainScene extends Phaser.Scene {
 	}
 
 	create () {
+		var Config = require('../util/config.js');
 
-		//this.map1 = new Map1(this);
+		this.matter.world.setBounds(0, 0, Config.width, Config.heightWorld);
 
-		this.rocket = new Rocket(this, this.map1.spawnPoint.x, this.map1.spawnPoint.y);
+		this.rocket = new Rocket(this, Config.width / 2, Config.heightWorld);
 
-		this.fuel = new Fuel(this, this.map1.spawnPoint.x, this.map1.spawnPoint.y);
+		this.camera = new Camera(this, Config.width, Config.heightWorld, this.rocket.sprite);
 
-		this.camera = new Camera(this, this.map1.tilemap, this.rocket.sprite);
+		this.panelfinal = new Panelfinal(this, Config.width / 2, Config.height /2 - 1500);
+
+
+		this.coinsF = new Coins(this);
+
+		this.ciclo = 0;
+
+		defineAnimations(this);
+		defineCollisions(this);
 	}
 
 	update() {
-		this.camera.fixYOffset();
+		this.ciclo++;
+		if (this.ciclo > 40) {
+			this.coinsF.addCoin(this, 300, this.rocket.sprite.body.position.y - 800);
+			this.ciclo = 0;
+		}
 
-
-		this.rocket.turnOnEngine(20);
-
+		this.camera.update();
 
 		this.rocket.update(this);
 	}

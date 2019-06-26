@@ -26,13 +26,16 @@ export default class Boot extends Phaser.Scene {
 		});
 
 		this.load.spritesheet('buttonplay', 'assets/sprites/buttonplay.png', {frameWidth: 64, frameHeight: 64, endFrame: 3});
-		this.load.spritesheet("rocket", "./assets/sprites/rocket.png", {frameWidth: 60, frameHeight: 120});
+		this.load.spritesheet("rocket", "./assets/sprites/rocket.png", {frameWidth: 80, frameHeight: 160});
 		this.load.spritesheet("tailfire", "./assets/sprites/tailfire.png", {frameWidth:32, frameHeight:64});
+		this.load.spritesheet("coin", "./assets/sprites/coin.png", {frameWidth:60, frameHeight:60});
+
 		this.load.image("fuel", "./assets/sprites/fuel.png");
-		this.load.image("blocks", "./assets/sprites/cloud.png");
-		this.load.image("wall", "./assets/sprites/wall.png");
-		this.load.tilemapTiledJSON("tilemap", "./assets/maps/tilemap.json");
+		this.load.image("fuelindicator", "./assets/sprites/fuelindicator.png");
+		this.load.image("panelfinal", "./assets/sprites/panelfinal.png");
+		this.load.image("piggy", "./assets/sprites/piggy.png");
 
 		this.load.json('rocketShape', './assets/sprites/rocket.json');
+
 	}
 }

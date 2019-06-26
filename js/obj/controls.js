@@ -1,14 +1,13 @@
-import Display from '../util/display.js';
-
+import GameScreen from '../util/gamescreen.js';
 export default class Controls{
     constructor(scene) {
         this.scene = scene;
-        this.display = new Display();
         this.cursors = scene.input.keyboard.createCursorKeys();
     }
 
     chechWhatHalf(){
-        this.firstHalf = (this.scene.input.pointer1.x < this.display.getRelativePositionX(50));
+        let gameScreen = new GameScreen();
+        this.firstHalf = (this.scene.input.pointer1.x < gameScreen.getRelativePositionX(50));
     }
 
     keyLeft() {

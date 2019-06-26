@@ -1,9 +1,8 @@
 export default class Camera {
-    constructor(scene, tilemap, sprite) {
+    constructor(scene, x, y, sprite) {
         this.camera = scene.cameras.main;
         this.camera.startFollow(sprite);
-		this.camera.setBounds(0, 0, tilemap.widthInPixels, tilemap.heightInPixels);
-		scene.matter.world.setBounds(0, 0, tilemap.widthInPixels, tilemap.heightInPixels);
+		this.camera.setBounds(0, 0, x, y);
         this.camera.setRoundPixels(true);
         this.yOffset = 0;
     }
@@ -13,5 +12,9 @@ export default class Camera {
             this.yOffset+=3;
             this.camera.setFollowOffset(0, this.yOffset);
         }
+    }
+
+    update() {
+        this.fixYOffset();
     }
 }

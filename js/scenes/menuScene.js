@@ -1,6 +1,6 @@
 import mainScene from './mainScene.js';
 import Boton from '../obj/boton.js';
-import Display from '../util/display.js';
+import GameScreen from '../util/gamescreen.js';
 
 export default class MenuScene extends Phaser.Scene {
 	constructor () {
@@ -8,8 +8,8 @@ export default class MenuScene extends Phaser.Scene {
 	}
 
 	create () {
-		let display = new Display();
-		this.boton = new Boton(this, display.getRelativePositionX(50), display.getRelativePositionY(50), "buttonplay", 0);
+		var gameScreen = new GameScreen();
+		this.boton = new Boton(this, gameScreen.getRelativePositionX(50), gameScreen.getRelativePositionY(50), "buttonplay", 0);
 		this.boton.click = () => {
 			this.scene.add('mainScene', new mainScene);
 			this.scene.start('mainScene');
