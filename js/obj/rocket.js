@@ -1,12 +1,17 @@
 import Controls from '../obj/controls.js';
-import Fuel from '../obj/fuel.js';
 
 export default class Rocket {
     constructor(scene, x, y) {
         this.scene = scene;
-        this.isFlying = true;
 
+        this.isFlying = true;
         this.velocity = 20;
+        this.moveAngle = 0;
+        this.maxFuel = 1000;
+        this.fuel = 1000;
+
+        scene.data.set('fuelPercentage', 100);
+
 
         var rocketShape = scene.cache.json.get('rocketShape');
 
@@ -25,52 +30,20 @@ export default class Rocket {
             .setDepth(2)
             .setPosition(this.sprite.body.parts[1].position.x, this.sprite.body.parts[1].position.y);
 
-        this.moveAngle = 0;
-
-        this.createAnimations(scene);
-
         this.tailfire.anims.load('tailfiring');
         this.tailfire.anims.play('tailfiring');
         this.sprite.anims.load('rollingleft');
-
-
-        this.tankfuel = new Fuel(scene);
-
 
         this.controls = new Controls(scene);
 
     }
 
-    createAnimations(scene) {
-        scene.anims.create({
-            key: 'tailfiring',
-            frames: scene.anims.generateFrameNumbers('tailfire', {start: 1, end: 2}),
-            frameRate: 25,
-            yoyo: true,
-            repeat: -1
-        });
-
-        scene.anims.create({
-            key: 'rollingleft',
-            frames: scene.anims.generateFrameNumbers('rocket', {frames: [0,1,2]}),
-            frameRate: 15,
-            yoyo: true
-        });
-
-        scene.anims.create({
-            key: 'rollingright',
-            frames: scene.anims.generateFrameNumbers('rocket', {frames: [0,3,4]}),
-            frameRate: 15,
-            yoyo: true
-        });
-    }
-
     turnOnEngine() {
-
-        if (this.tankfuel.thereAreFuel()) {
+        if (this.thereAreFuel()) {
             this.isFlying = true;
             this.sprite.setVelocityY(Math.sin(this.sprite.body.angle - Math.PI/2) * this.velocity);
             this.sprite.setVelocityX(Math.cos(this.sprite.body.angle - Math.PI/2) * this.velocity);
+            this.decreaseFuel();
         } else {
             this.isFlying = false;
             this.scene.cameras.main.stopFollow();
@@ -113,7 +86,6 @@ export default class Rocket {
         }
     }
 
-
     update(scene) {
         if (this.isFlying) {
             this.turnOnEngine();
@@ -127,8 +99,21 @@ export default class Rocket {
                 this.sprite.anims.play('rollingright');
             }
             this.updateAngle();
-            this.tankfuel.decreaseFuel();
         }
-
     }
+
+    thereAreFuel () {
+        if (this.fuel > 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    decreaseFuel() {
+        this.fuel--;
+        let fuelPercentage = Math.floor((this.fuel / this.maxFuel) * 100);
+        this.scene.registry.events.emit('changeFuelPercentaje', fuelPercentage);
+    }
+
 }

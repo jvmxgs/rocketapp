@@ -23,7 +23,11 @@ export default class Coin extends Phaser.Physics.Matter.Sprite {
             duration: 600,
             ease: 'Bounce.Out',
             x: gameScreen.getRelativePositionX(95),
-            y: gameScreen.getRelativePositionY(2)
+            y: gameScreen.getRelativePositionY(2),
+            onComplete:() => {
+                this.scene.registry.events.emit('coinCollected');
+                this.destroy();
+            }
         });
     }
 }

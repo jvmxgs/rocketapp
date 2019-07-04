@@ -1,4 +1,4 @@
-export default class Fuel {
+export default class FuelIndicator {
     constructor(scene) {
         this.fuel = scene.add.image(53, 0, "fuel");
         this.fuelindicator = scene.add.image(10, 10, "fuelindicator");
@@ -9,25 +9,21 @@ export default class Fuel {
         this.fuelindicator.setOrigin(0);
         this.fuel.setScrollFactor(0);
         this.fuelindicator.setScrollFactor(0);
-        this.decrease = 0;
+
+        scene.registry.events.on('changeFuelPercentaje', (fuelPercentage) => {
+            this.updateLevelFuel(fuelPercentage);
+        });
     }
 
-    decreaseFuel() {
+    updateLevelFuel(fuelPercentage) {
+        let fuelPercentageUsed = 100 - fuelPercentage;
+        let widthToCut = Math.floor((this.fuel.frame.width * fuelPercentageUsed) / 100);
+
         this.fuel.frame.cutY = 0;
-        this.fuel.frame.cutX = this.decrease;
+        this.fuel.frame.cutX = widthToCut;
         this.fuel.frame.cutHeight = this.fuel.height;
-        this.fuel.frame.cutWidth = this.fuel.width - this.decrease;
+        this.fuel.frame.cutWidth = this.fuel.width - widthToCut;
         this.fuel.frame.updateUVs();
-        if (this.decrease < this.fuel.width) {
-            this.decrease+=1;
-        }
     }
 
-    thereAreFuel() {
-        if (this.fuel.width - this.decrease <= 0) {
-            return false;
-        } else {
-            return true;
-        }
-    }
 }

@@ -13,7 +13,7 @@ module.exports = {
         default: 'matter',
         matter: {
             gravity: { y: 9.8 },
-            debug: true
+            debug: false
         }
     }
 };
