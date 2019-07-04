@@ -11,6 +11,8 @@ webpack-dev-server
 
 ###Correr la app:
 
+ En una segunda terminal
+
 ```
 cd build
 
