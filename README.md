@@ -1,6 +1,6 @@
 # rocketapp
 
-###Enpaquetar:
+### Enpaquetar:
 
 En la raiz del proyecto
 
@@ -9,7 +9,7 @@ webpack-dev-server
 ```
 
 
-###Correr la app:
+### Correr la app:
 
  En una segunda terminal
 
