@@ -1,5 +1,20 @@
 # rocketapp
 
+### instalar
+
+```
+git clone https://github.com/jvmxgs/rocketapp.git
+
+cd rocketapp/build
+
+npm install
+
+cd www 
+
+npm install
+```
+
+
 ### Enpaquetar:
 
 En la raiz del proyecto
